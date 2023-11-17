@@ -38,7 +38,7 @@ const Body = () => {
             </div>
             <div style={{ paddingTop: '50px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
                 {/* pass down url link in url attribuite */}
-                <ReactPlayer url={'https://www.youtube.com/watch?v=5gg17XXXiNo'} height={200} controls />
+                <ReactPlayer url={'https://youtu.be/OlGfSKcWhdA?si=k8yQ_UBaWGCfq3xA'} height={200} controls />
                 <div>
                     <p>Dandelions by Ruth B. </p>
                 </div>
